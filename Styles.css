@@ -1,0 +1,22 @@
+body {
+  font-family: system-ui, -apple-system, BlinkMacSystemFont;
+  margin: 0;
+  padding: 16px;
+  background: #fff;
+}
+
+#app {
+  max-width: 420px;
+  margin: auto;
+}
+
+#ring {
+  height: 180px;
+  border-radius: 50%;
+  border: 12px solid #4caf50;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin: 24px 0;
+  font-weight: bold;
+}
